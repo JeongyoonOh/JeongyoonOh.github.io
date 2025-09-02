@@ -24,7 +24,7 @@ email: "joh371@gatech.edu"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "https://JeongyoonOh.github.io/images/profile.jpg"
   name             : "Jeongyoon Oh"
   pronouns         :  # example: "she/her"  
   bio              : "PhD Candidate in Building Construction at Georgia Tech"
