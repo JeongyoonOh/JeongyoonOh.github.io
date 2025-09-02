@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jeongyoon Oh"
   pronouns         : "She/her" # example: "she/her"  
-  bio              : "PhD Candidate in Building Construction at Georgia Tech. Research on risk management in the built environment and transportation with a focus on AI-integrated decision support."
+  bio              : "PhD Candidate in Building Construction at Georgia Tech"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "JeongyoonOh"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
