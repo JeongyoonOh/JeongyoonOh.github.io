@@ -9,8 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-masthead_title: false
-title                    : "Jeongyoon Oh"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jeongyoon Oh"
 description              : &description "Jeongyoon Oh — PhD Candidate in Building Construction at Georgia Tech"
