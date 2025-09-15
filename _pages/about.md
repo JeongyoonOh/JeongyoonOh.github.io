@@ -17,3 +17,5 @@ A core focus is on developing **decision-support methods** to proactively addres
 Building on this foundation, my work is expanding toward **AI-enabled approaches** for the built environment, where **large language models (LLMs)** can support areas such as **risk identification, construction management processes, and design optimization**.  
 
 This line of research aims to **enhance decision-making across the project lifecycle**.  
+
+[📄 Download CV](files/JeongyoonOh_CV.pdf){: .btn .btn--primary}
