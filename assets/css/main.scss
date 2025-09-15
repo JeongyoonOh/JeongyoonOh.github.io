@@ -41,3 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom overrides */
+.author__avatar img {
+  max-width: 150px;   
+  border-radius: 12px; 
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15); 
+}
