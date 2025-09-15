@@ -42,9 +42,9 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Custom overrides */
 .author__avatar img {
-  max-width: 150px;   
-  border-radius: 12px; 
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15); 
+  width: 200px !important;   /* 강제로 크기 고정 */
+  height: auto !important;   /* 비율 유지 */
+  border-radius: 12px;       /* 둥근 모서리 */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2); /* 카드 느낌 그림자 */
 }
